@@ -85,7 +85,7 @@ and that counts as your first PR. 🎯
 ```
 
 
-### 💻 Make all Pull requests to the "develop" branch only. Let's maintain a stable master branch that is deployed. Changes would be merged later on to the master branch.
+### 💻 Make all Pull requests to the "develop" branch only. Let's maintain a stable main(master) branch that is deployed. Changes would be merged later on to the main(master) branch.
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2019
@@ -193,13 +193,13 @@ https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow
 
 ##### ` git fetch upstream `
 
-###### Switch to the local master branch of our repository:
+###### Switch to the local master(main) branch of our repository:
 
-##### ` git checkout master `
+##### ` git checkout main `
 
-###### Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch:
+###### Now merge any changes that were made in the original repository’s main branch, that you will access through your local upstream/main branch, with your local main branch:
 
-##### ` git merge upstream/master `
+##### ` git merge upstream/main `
 
 ### 8. 👇🏻Create Pull Request
 
