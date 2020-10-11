@@ -166,6 +166,7 @@ https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow
 ##### ` git push --set-upstream origin new-branch `(Assuming your branch name as "new-branch")
 
 
+#### :zap::zap:NOTE: After this you can directly go to github and create pull request to Base YABHAKRITI repository i.e step 8. Else for getting more clear understanding of working on github follow steps 5,6,7 that will help in syncing the project to remote Repo, this is very important when you are working on group project.
 
 
 ### 5. 👇🏻Update Local Repository
