@@ -3,11 +3,12 @@
 </h1>
 
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
+
 [![GitHub issues](https://img.shields.io/github/issues/YABHAKRITI-Robotics-Club/CodeToGrow)](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/issues)
 [![Forks](https://img.shields.io/github/forks/YABHAKRITI-Robotics-Club/CodeToGrow)](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/network/members)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
 
 <h2 align="center">
@@ -16,50 +17,52 @@
 
 </br>
 
-- [Cheet-Sheets]
-- [Basics of Programming]
-    - [Patterns]
-    - [Arrays]
-    - [Matrix/2D-Arrays]
-    - [Strings/String-Builder]
-    - [Vector/ArrayList]
-- [Basics+1]
-    - [Binary-search]
-    - [Sorting]
-    - [Bitwise-operations]
-    - [Number-Theory]
-- [Recursion and BackTracking]
-    - [Level-i]
-        - [Recursion-Basics]
-        - [Recursion-in-Arrays]
-        - [Recursion-in-Arraylist/vector]
-        - [Recursion-a-Level-up]
-        - [Recrsion-BackTracking]
-    - [Level-i+1]
-- [Divide and Conquer]
-- [Dynamic Programming]
-    - [Level-i]
-    - [Level-i+1]
-- [Linked Lists]
-- [Stacks & Queue]
-- [Priority Queue and Heaps]
-- [Hashmap]
-- [Trees]
-    - [Generic-Tree]
-    - [Binary-Tree]
-    - [Binary-Search-Tree]
-    - [Threading-tree/Morris-Tree]
-    - [XOR-Tree]
-    - [Red-Black-Tree]
-    - [B+ Tree]
-- [Graphs]
-- [Disjoint-DataSet]
-- [String Algorithms]
-- [Advance Data Structure]
-    - [Binary-index-tree]
-    - [Segment-tree]
-    - [Trie]
-    - [Suffix-Tree]
+## Flow of Files
+
+- [Cheet-Sheets](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Cheet-Sheets)
+- [Basics of Programming](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming)
+    - [Patterns](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming/Patterns)
+    - [Arrays](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming/Arrays)
+    - [Matrix/2D-Arrays](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming/Matrix/2D-Arrays)
+    - [Strings/String-Builder](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming/Strings/Strings-Builder)
+    - [Vector/ArrayList](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basic%20of%20Programming/Vector/ArrayList)
+- [Basics+1](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basics%2B1)
+    - [Binary-search](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basics%2B1/Binary%20Search)
+    - [Sorting](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basics%2B1/Sorting)
+    - [Bitwise-operations](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basics%2B1/Bitwise-Operations)
+    - [Number-Theory](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Basics%2B1/Number%20Theory)
+- [Recursion and BackTracking](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking)
+    - [Level-i](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1)
+        - [Recursion-Basics](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1/Recursion-Basics)
+        - [Recursion-in-Arrays](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1/Recursion%20In%20Array)
+        - [Recursion-in-Arraylist/vector](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1/Recursion%20In%20Arraylist/Vector)
+        - [Recursion-a-Level-up](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1/Recursion-a-level-up)
+        - [Recrsion-BackTracking](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-1/Recursion-BackTracking)
+    - [Level-i+1](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Recursion%20and%20Back%20Tracking/Level-2)
+- [Divide and Conquer](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Divide%20and%20Conquer)
+- [Dynamic Programming](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Dynamic%20Programming)
+    - [Level-i](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Dynamic%20Programming/Level-1)
+    - [Level-i+1](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Dynamic%20Programming/Level-2)
+- [Linked Lists](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Linked%20Lists)
+- [Stacks & Queue](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Stacks%20%26%20Queue)
+- [Priority Queue and Heaps](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Priority%20Queue%20and%20Heaps)
+- [Hashmap](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Hashmap)
+- [Trees](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees)
+    - [Generic-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/Generic%20Tree)
+    - [Binary-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/Binary%20Tree)
+    - [Binary-Search-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/Binary%20Search%20Tree)
+    - [Threading-tree/Morris-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/Threading%20Tree/Morris%20Tree)
+    - [XOR-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/XOR%20Tree)
+    - [Red-Black-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/Red%20Black%20Tree)
+    - [B+ Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Trees/B%2B%20Tree)
+- [Graphs](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Graphs)
+- [Disjoint-DataSet](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Disjoint-DataSet)
+- [String Algorithms](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/String%20Algorithms)
+- [Advance Data Structure](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Advance%20Data%20Structure)
+    - [Binary-index-tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Advance%20Data%20Structure/Binary%20Index%20Tree)
+    - [Segment-tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Advance%20Data%20Structure/Segment%20Tree)
+    - [Trie](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Advance%20Data%20Structure/Trie)
+    - [Suffix-Tree](https://github.com/YABHAKRITI-Robotics-Club/CodeToGrow/tree/main/Advance%20Data%20Structure/Suffix-Tree)
 
 
 
