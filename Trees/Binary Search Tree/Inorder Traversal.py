@@ -1,3 +1,5 @@
+from collections import deque
+
 def inOrderUsingStack(root):
     s=deque()
     curr=root
