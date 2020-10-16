@@ -5,7 +5,7 @@
  *  NIT Meghalaya
 */
 
-// Generic Graph data structure works for both DAG and non DAG
+// Generic Graph data structure works for both directed and non directed graph
 // Helps in adding vertices and edges, and can return the list of vertices and the neighbours of a specified vertex
 
 #include <map>
