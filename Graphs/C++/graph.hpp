@@ -23,7 +23,7 @@ public:
 
     void add_edge(Vertex const source, Vertex const target, Weight const weight, bool const bidirectional = true) {
         adjacency_list[source].push_back(std::make_pair(target, weight));
-        if(bidirectional) adjacency_list[target].push_back(std::make_pair(source, weight));         // for non DAG
+        if(bidirectional) adjacency_list[target].push_back(std::make_pair(source, weight));         // for non directed graph
     }
 
     size_t vertex_count() const { return adjacency_list.size(); }
