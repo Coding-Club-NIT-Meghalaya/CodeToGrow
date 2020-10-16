@@ -1,5 +1,10 @@
 #pragma once
 
+/**
+ * Author : Shanborlang Suja
+ * NIT Meghalaya
+*/
+
 #include <vector>
 #include <algorithm>
 #include <functional>
