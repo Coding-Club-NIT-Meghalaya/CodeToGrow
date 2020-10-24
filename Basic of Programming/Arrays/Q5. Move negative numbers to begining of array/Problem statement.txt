@@ -1,0 +1,31 @@
+Reema goes to a party where she takes N lottery tickets, the tickets can be taked for free but each of them have a number written on it
+(if it's positive then person gets money and for negative the person gives money). Her mother is very worried of her spending too much of money, 
+so she made an array Ar of size N , where Ai contains the amount Reema gained or lost in a lottery ticket and asked Reema to puta ll negative numbers
+to the beginning of the array and positive to end of array.
+
+Reema could not do it without taking constant extra space, help her solving it out with constant space.
+
+Note:
+
+The order of rearrnging can be any eg.(-1, -2, 3, 5) or (-2, -1, 5, 3 ) or (-1, -2, 5, 3 ) or (-2, -1, 3, 5)
+Input:
+
+The first line of the input contains a single integer N the size of array.
+The second line contains N space-separated integers A1,A2,.....AN.
+
+Output:
+Print Ar such that begining contains negative and end contins positive numbers.
+
+Constraints:
+1 ≤ N ≤ 1,000,000
+-1,000,000 ≤ Ai ≤ 1,000,000
+
+Example:
+
+Input:
+9
+-12 11 -13 -5 6 -7 5 -3 11
+
+output:
+-12 -3 -13 -5 -7 6 5 11 11 
+
