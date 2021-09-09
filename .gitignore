@@ -10,8 +10,11 @@
 # Ignore all local history of files
 .history
 .ionide
+.idea
+
 
 # Executables
 *.exe
 *.out
 *.app
+*.iml
